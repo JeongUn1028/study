@@ -8,11 +8,6 @@ class ValidationSample extends Component {
         validated: false
     }
     
-    input = React.createRef();
-
-    handleFocus = () => {
-        this.input.current.focus();
-    }
 
     handleChange = (e) => {
         this.setState({
@@ -43,4 +38,4 @@ class ValidationSample extends Component {
     }
 }
 
-export default ValidationSample;
+export default ValidationSample; 
