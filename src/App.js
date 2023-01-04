@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 import React, { Component } from 'react';
 import LifeCycleSample from './LifeCycleSample';
 import ErrorBoundary from './ErrorBoundary';
@@ -31,21 +29,3 @@ class App extends Component {
 }
 
 export default App;
-=======
-import logo from './logo.svg';
-import './App.css';
-=======
-import React from 'react';
-import Average from './Average';
->>>>>>> ad2ba27 (8. Hooks 23.1.4)
-
-const App = () => {
-  return <Average/>
-};
-
-<<<<<<< HEAD
-export default App;
->>>>>>> c01f291 (Initialize project using Create React App)
-=======
-export default App;
->>>>>>> ad2ba27 (8. Hooks 23.1.4)
